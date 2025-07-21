@@ -1,0 +1,11 @@
+ollama
+langchain-ollama
+openai
+python-dotenv
+langchain_openai
+langchain
+langchain-google-genai
+huggingface_hub
+langchain-huggingface
+transformers
+groq
